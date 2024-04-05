@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Республики Алтай «Об административных правонарушениях в Республике Алтай»
+Document type: Закон
+Number: 6-РЗ
+Date signed: 2024-04-04
+Publication date: 2024-04-05
+Publication number: 0400202404050006
+Signing body: Республика Алтай
+Official publication page: http://publication.pravo.gov.ru/Document/View/0400202404050006
