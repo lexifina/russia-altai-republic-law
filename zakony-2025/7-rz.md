@@ -1,0 +1,8 @@
+# О внесении изменения в статью 3 Закона Республики Алтай «Об обеспечении доступа к информации о деятельности мировых судей в Республике Алтай»
+Document type: Закон
+Number: 7-РЗ
+Date signed: 2025-03-10
+Publication date: 2025-03-12
+Publication number: 0400202503120023
+Signing body: Республика Алтай
+Official publication page: http://publication.pravo.gov.ru/Document/View/0400202503120023
