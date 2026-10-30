@@ -1,0 +1,1019 @@
+{
+ "country": "RU-AL",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Altai Republic: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "adb2c58c184680e2ad0096b0f6677092b3d3b409850092e0bc8042990a6c59f4"
+    },
+    {
+     "from": "2015-04-07",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "ef18a2beae90332aef2fb21514d9fa4e8810434a4deb721ad7ebb606e6117e96"
+    },
+    {
+     "from": "2015-06-02",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "34d2974134ed77d3b41efe4332bba42a8cfb4ef8bbcdced55771f56ea766b2d4"
+    },
+    {
+     "from": "2015-06-11",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "4ac6a0e91198ad40ae55713800c77dd926e1effe359b1a62f67cb8819db8ea9a"
+    },
+    {
+     "from": "2015-07-06",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "4929c00f9594fbe3700bae43716bf6944009b8c3d972c2ff2fd8622ab59126fe"
+    },
+    {
+     "from": "2015-07-10",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "71f23307ebce6fdaafdd31a9dd63ca41a600928bd80087c7c99775c38ab2a435"
+    },
+    {
+     "from": "2015-10-12",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a77d0645171d787e6d89d3d97880c9e7d1ee94ee9eaa230b1aed5ec52c5baa2f"
+    },
+    {
+     "from": "2015-11-02",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "16627fe4fbf338fe77c53a0ef535d72da0fe732382562daf7ba3af030f72a991"
+    },
+    {
+     "from": "2015-11-13",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5bd6f94d4fbf959b14f48947d58df3fe6c578daef8c6c69080190a954c402b48"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "c4ad41fad1c3d2a1db2e07e63d7cabc38dbc1a00498f54bdfbbfe365304ba231"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "104d54c52c72936693aeecdeb08c5763b8b66d6e889358f342cb267e86d42789"
+    },
+    {
+     "from": "2015-12-24",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "1d85b8174ff21a4a8a1babe46a5854349090b57209ed4312450cfb36ce329591"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Altai Republic: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a95fa627e73fc621c44e8b4e32852a7c0408d579e63aa86dc11a44701f578ca2"
+    },
+    {
+     "from": "2016-03-17",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "af4c8ea210c5581ad651fd08c2e8531f56d31d57c9fbac8f4da434d4fe1e7067"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "c12af01a24ad00a451847de9686845bb5e13cd199b9d79171d9541b80512a571"
+    },
+    {
+     "from": "2016-05-16",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e117b25313f5e770e03e8d5e0906b0b4492fd3ee4dc0ca4395d0d03bdb858fd9"
+    },
+    {
+     "from": "2016-05-17",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "389539f90d525cdb5375730e0d50c16d5d5a0179d4ffe60e9272d56bc2e3beb2"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5f7b191712734746ed5fa92a89216ad47027ee1a9c1060b98eba4144a1a63269"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a1b2d6b085ba3fb9948b2166feca776139497ad0c6c189a3a7441a4b248773d9"
+    },
+    {
+     "from": "2016-06-28",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "2dc1ee977e8a731e5535f84e6c3b1306e7580a6ed5f1b10ec32a110883ea8cc1"
+    },
+    {
+     "from": "2016-10-03",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "14c6e289f524c00d08747585b7f17786c8e4700ef7dab3610fac85d6e9d5812e"
+    },
+    {
+     "from": "2016-10-25",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "38f3d7103167e4c2c0361e92014464fb4fc833f7226439861061836f71afd4c3"
+    },
+    {
+     "from": "2016-11-23",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "218e8be8509a7d885732c05ea3974795e8cc20aa820979546ebb6112e222d024"
+    },
+    {
+     "from": "2016-12-01",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d0ca952165c890c5055339ceda184eb7bd476e420707b7ff9676e121d2c85b6c"
+    },
+    {
+     "from": "2016-12-19",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d2cc20d2371ae18457d16a4802b894a62fdd465865013f76be4e5c91cfd89ad7"
+    },
+    {
+     "from": "2016-12-20",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "2c502580a8668a90de5a81f14a043b2d53c62fa4a869799f7121739ce418e1cc"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "11fb97ffd5d160457587b1a6144bed0fb9a482e443ed03c5ae119b263ccaba5e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Altai Republic: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "75e3f2468192c2689d32a044f9b1e8948c5972a1f501d622eb328b0c557e1da7"
+    },
+    {
+     "from": "2017-06-15",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "ea784bba3a6808e621103ed9d6f2017fd92b1ce1af85d5f970c9156b7bdb72fa"
+    },
+    {
+     "from": "2017-07-07",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5579845b3369e6436eb66fdf699ec17e5279fd6ea3e74ad76c64b6b7847d8b61"
+    },
+    {
+     "from": "2017-10-02",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d56ec0626e9676560c9d092d23d50b400edd884c9cb3f80a1fdc540f6b91da8e"
+    },
+    {
+     "from": "2017-10-03",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a87d3abf3e50d028d6e37b80b9c17a81bcfaf8900db63beea619e6c9e3a542bc"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d5cef0abe6669cdbb5d7d71b738e6ed9be8f2c8e2fb1a43934a4ddc03f100baf"
+    },
+    {
+     "from": "2017-11-17",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a94d6ef956a20cb180e7bd7c339b46084a84661283646ba37141360a12344d49"
+    },
+    {
+     "from": "2017-11-20",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e7c661923e7adafe24a5872acc1c950d6db66af7cc9b69b590223c8ce89560e0"
+    },
+    {
+     "from": "2017-12-14",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "383f87ce6520be009f03752d92b390749f99b9adfd272a3c38eb2d8be58c7b61"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5007c5b3752a96f99ec389211b467c4240d42e513f4f9e65510d455d287a2a20"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b134ce9c6a047b736deaaa765fee92bad694b4b4e77002a3d77deca03570f4c0"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "235598d6c72e688958383538545097eedaa178f14a79a5896865e8c716f6c9b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Altai Republic: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d0aff652b82a257b4410e1402bbe1f0ad53d3f3d119ca1c2762ef4092a06732a"
+    },
+    {
+     "from": "2018-03-07",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "88af43cc066f1f8a99e5eae2dd749ab03f0f28a7e05fe308950ec277b9cd6a4b"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "9a923fe2a5110aa325c770158741b54753c37a74d17216502d90e7004f28c673"
+    },
+    {
+     "from": "2018-04-10",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "510366dc84ff368b81469dda4eb2a1a50ca62d5376d140f1b4ff4b733150dca6"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0be38376cb6df460f8bc0f35882aa983a7c3597e08a6d39c8d1d1a2183973a7a"
+    },
+    {
+     "from": "2018-07-02",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "95117878e7cb7728cf3b47f91c53f35724af35982ea7c63f27b700c5c49996c7"
+    },
+    {
+     "from": "2018-07-06",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "596cc4496a2984b406bd18a0a58696da02698f6881abdf3407e19bf109473cc8"
+    },
+    {
+     "from": "2018-10-09",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "6a095edb829b3e8b629ebd4c27886e0661eb4a5ef2defba0f7e5aa65819b814b"
+    },
+    {
+     "from": "2018-11-19",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a4c55009b2707c4b00c062a29049329d8bbf4180e01e3ba99288e794b6b2db83"
+    },
+    {
+     "from": "2018-11-23",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "fc222f9c4cb24fa83eef16b4b884b70da9552dbfcace26d0808bbcd3f735719e"
+    },
+    {
+     "from": "2018-12-19",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b2d756068ae00bf8dfb5e6414382b32e61bdf339a82a8bd3d76c976b7db8f6c4"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "4c2fa295e83b66ed962d957495247f6fab447758ae0c4eb3c5f5f12a4feaec3f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Altai Republic: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e42a1566dde6b3d9c7757676a34108ba772dde5aa24940da9081ecd2d4afe842"
+    },
+    {
+     "from": "2019-03-18",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "f90ca814368b629a046b29af4c95eb5b777ea9af639013739089dc4e80552f6a"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "2912a1e633896c14de1b3c5be8bacf518ef4cf98958434e3b7b9a63917c95543"
+    },
+    {
+     "from": "2019-04-09",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e49cbc43a24378ddff7acb07b62c46ccfab8adf0b9f8fe5b35323091107671f0"
+    },
+    {
+     "from": "2019-05-20",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "579749915d84fb16d57954d29cd3695d1e2172e702ec788ed8fe5a85f6e9cc66"
+    },
+    {
+     "from": "2019-05-30",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "ff67a83e25c9a72686c7561cb48175d25a02ed1a6e33839a521ff19d95b17bd6"
+    },
+    {
+     "from": "2019-06-19",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d4327171e573b2d6357b4290866443e31469e3cb988c872b90e73eead846f02c"
+    },
+    {
+     "from": "2019-06-26",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "f3d7612927561d9f05867b7a2ff511c91762fcd13ed6948044f0d1756a76bc28"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "bee392e1a7ea8200445d7b132a57174c71eb5435858a609d1776a5d96d3feef1"
+    },
+    {
+     "from": "2019-11-18",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "29ec55c5cd043ef129539627f24e99f5432b849a65e1ce468eb65df1e6c6e7e5"
+    },
+    {
+     "from": "2019-12-10",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7774b5c7f0a22af669f0b22a32b9fa56c26effe8886284d4c100bdb7ae847e69"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7aa110a404af828e31dfd0e19154d8786c8f00b83f76599a20beba2bb00f1ea0"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5fba6e71585af8e5d8f3782fb675b88437763d571e36e8ddffd9239b5f0d52fe"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "def3f3e558f3aeb3e18a3f254ec7669ffa4317d7d58595d5f22ac99a3c8ebae9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Altai Republic: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a0af1641f56d948b7d6a2d649daaa29cafef2df486c98703e332664e36f9868b"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a0be6ac5e0465d7129737f6e150d398fb74f3491b752b63e0ace0308e9a36b41"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "4c9ba9a221fc601a5a0be16bff2338f4a7602a6a2ad76c489355800a7cba4725"
+    },
+    {
+     "from": "2020-04-10",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7f5c62f834f10151703e4698beaa43a40c8c55f60587d94c30ef98ab16eae6a5"
+    },
+    {
+     "from": "2020-06-01",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "abfa7923559b260c71c987c99f5666802176ba6f7e9d301b91aadd0c8cc618bd"
+    },
+    {
+     "from": "2020-06-16",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "1f60e813dee4eeea3244bf13c5abefe8a8be44eee7c75e536735124102412b69"
+    },
+    {
+     "from": "2020-07-09",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b631376231815e831216b16b529fb9714430e73f23654f8151d5b4eb5b2f9868"
+    },
+    {
+     "from": "2020-07-10",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d26deb7e88aa22ea41d9a270c8bfd335b67fe18c262699c39e4e9001e642c20f"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "6dda8658ecbf93dc215acf9f3752e27e2be8c884c2792f297aec2fc25901d950"
+    },
+    {
+     "from": "2020-11-19",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "dcf24d57fdc94ee995b5fcd07646260050f1a1b15afaba6363d9e14dc4e77cfb"
+    },
+    {
+     "from": "2020-11-26",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "07d9b309a82726ea750aadab7f840b26f21681498139b7e5f2bfced3a3bce86e"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a46dfb02a91a1035af6b437dcfbc44c5bd0dd10ea9d6a9db5dcd3399edc8d9e2"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a9e263c27dc6d2dc994fd97249e5d29d97fa68819a8e8a85dfb3a11934497893"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d9eeaab97f185a13f976ca09610d7a01d75269f9dec385721dc62811990eaaf2"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7c462cc54b5c3ba03ef70e0d11767ae417c79705bf37f30ab7bf84fdcbbc2339"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Altai Republic: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0c3d1c5c58cbb7fa29912b63fd23673ca3893f8af19468cb7a23d9c9f2575345"
+    },
+    {
+     "from": "2021-04-07",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "09b6d0426df83455cc0a8f4e885a9cf79e02689d5ee311501cff648be945b545"
+    },
+    {
+     "from": "2021-05-17",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "519bc2aca0cd9ee92b520b4c3490d42119c726e39cd457ba6edba422028663bf"
+    },
+    {
+     "from": "2021-06-23",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "701dbd3b42d29c922ad8841e07b1834e80b4e71e8eedd7d602a6fc68dba5568e"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "67c507361ab1826a61362eb4c0bf9892c13f6dc704ad973296d989278423dd44"
+    },
+    {
+     "from": "2021-10-20",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b1155ca11836261dc3da445c0fc40c86e2c401b454812833005d8e63fdec66cb"
+    },
+    {
+     "from": "2021-10-27",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "6a368ca4cea6bb206954453d1f4984232f92006b8fa8c64623d8f40d479b67d8"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "05f85c8142e8a42ff477cdf0ebd726073b37184e9b8d7245dd6cdb1750665b63"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "62e03a605012af5e077ae9fc0459cd3d2b7e48803b89199affdd2083731c0703"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "4c779a374f86f215a41cf95ba91f6a0d3352d95a066b3632e1be2f06653dba3f"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0554fbd950df47c96c5e304b61343e66feeea00d0107b1b9f301f040eae88e2d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Altai Republic: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e3af062c8ddf739f8e15b060a7668f6507eb352fca0ab6c754a1cf3246f40e38"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "c04595aa8ea3e7a245422faf4f5df985cd511cd095818ec7673e1e9b543b4f71"
+    },
+    {
+     "from": "2022-05-05",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "c0d8f4d58b7d4941370834131b7a68496a5a3f8319ab6701b8384d391981dac0"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "50cfb86d3b07a93729a2a44ed25949161ae8916e69cfeceaf966af6c42776d5e"
+    },
+    {
+     "from": "2022-06-27",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "eb7b43018215bb286405045adaee7640631006405ddecd6051e50e33b2929de3"
+    },
+    {
+     "from": "2022-07-05",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "12f8d7c2a5f7f00eadc7e8a3836b76224725deefea5361972a7f0ce08d38587e"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "dd4e961ba9c8f8c0dd18f660573d8425910a31adcc81c50800b3067f33f1538b"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "1c7c1700f46f925f9da95aa86226d0c17af10749961e0d33424d434a0bce7002"
+    },
+    {
+     "from": "2022-11-10",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "96c61c75f78f96b5daab3e316b41d9b7e6535721eac87c36b2949ee2fcc5a5dc"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "acc5976714d3f018333a14346d55e75a5be26e10aba0f361a776486bbaa92827"
+    },
+    {
+     "from": "2022-12-26",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "8cb301a8133a5e4a03e46ae6407eee22f0ffd976e901d9c857b54929497b84b9"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "594010a363182f15bd89b8fceec2af5476595ffbe88d359496c058723d4b779e"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "393f94cf9fc584aef394ec39d765419185866150374344acb9f230060bfd6349"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Altai Republic: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5e7fbab7f49bed3f77a8c64730125bb22daa523feae3d60b2fd2e8fc54826524"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5de5d2b800ad0727bcd2f6f48040ce4086fddadcacbd4c52b48541a0bc37b111"
+    },
+    {
+     "from": "2023-05-03",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "22896ecd7418259b8abda79757eb4a0a387357aa86795d0c7519ea3c6402bfbc"
+    },
+    {
+     "from": "2023-06-02",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "aa48ed02ae4f0a2c861fc15f1095325ca5d3c89477d48a4a1907f9d0807b34a8"
+    },
+    {
+     "from": "2023-06-27",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "cc87c56ec21b5e17d827a58cda40e18f7a709ccee6cd49e8768f01b29dc1801e"
+    },
+    {
+     "from": "2023-07-19",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "75ddfdd726bbb9dc6034d838525062a011c9a62357b70eb883d1b445d649a8c8"
+    },
+    {
+     "from": "2023-10-13",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "889642c495e86218d1fa8cdcd45849a96bdb82b19f9eed1e80b1fae805f93b80"
+    },
+    {
+     "from": "2023-11-23",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "8d8d4414fc3f44d9b91e77a9099bd1f9610ab22abd66be19a1962bd6b9f62a5f"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "2dc3576e62256e1aa16eb7e84f61b7e8d52663a30b30f4028b45ec3fb7e7f6e2"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "c10a5a8e46851757b0d3389b6264b1352979c67627c17eb5e866def9596d15d3"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "8c29f206224d407f739bae48f6733f9a60c1df1e7441d9082c5a6a5ccd4f62ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Altai Republic: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "9f8b2143ded07dde931e0c66635db5719bec2578f4f3fae7dffe11150d41eee8"
+    },
+    {
+     "from": "2024-04-05",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "857d9d9dc8e197254e1560f99a9b773e6315deac9781cc48c569b05af844872c"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5780b4dae2f92a6b1b869623cab369694f88176f6a619be88430eab3cc52972c"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "67d4437ab4b3ed8c07b9239542efd6a55e14ee614c2c59f48e178d9d7c2860fe"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e88939a2099b9f906d986f5ca147c8a7aef4c83f9316999e475bcbc2965fe305"
+    },
+    {
+     "from": "2024-10-31",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b35e7bcdc67adcb3a5421ef21c5981377a5c65ca87c655c37f14490b476dbfba"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "949b356b637b2d2c5895e2fb1a27ba5f6cc8f3296cf06646e43868f07042f564"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "570f6cbe4743bfbaa1d6d67322b55944318bfff1ee46a72857194fa8e651d1e8"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "062e474c4e5b7b708205432e3c392972d2195f4534c7d6247c5e2a4626cfb4a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Altai Republic: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "5467d9724e79bbcafb8829af84cfe32b6de86f6ab51b956c2d3ab0286cd5030f"
+    },
+    {
+     "from": "2025-03-07",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "9bf7d4cd9a94f9262e79e08e5428ade73f4c9ac13882b35e3ed7f7b4d4b91179"
+    },
+    {
+     "from": "2025-03-12",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "1b88fcf0800149e6b9b7d85d2d510dac6740834b468bccfa3cc00d4a30e5ddf0"
+    },
+    {
+     "from": "2025-04-28",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "23a12fd9201dd150f756baf8786743381fbf668c372dff707525f147fb46eea3"
+    },
+    {
+     "from": "2025-04-29",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0aacddbfdb82a1b09f4e1079f6dd86217298e49c455dd0b68100a59c818ddd6e"
+    },
+    {
+     "from": "2025-05-12",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "ec65210a6537374b2c393db0ce186df293a3da677411c57ffa3a289805d6764e"
+    },
+    {
+     "from": "2025-06-02",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0bac5c454e1724b887536bf163b06533d512e6638b5133525608751451f15702"
+    },
+    {
+     "from": "2025-06-11",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "3072874bc4ad1986dd4b013a9b167545eb36d808e30aedcd914ab842322b905f"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d41eacccd0741d4d554b521cf6eaecadca5366a91cac02f7591252dc45740c1d"
+    },
+    {
+     "from": "2025-07-09",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "309d0a119c7833e676a4deba2486ce3d82736ed7b2eb0d199463a154b065059a"
+    },
+    {
+     "from": "2025-09-26",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "59738ee0682eb97abc503763b3c139b3286dd201670d3efceea24ff9b1dcd1ab"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "68d5bbcee2a8af64ddb84e7f7c4381ba2c8bdbf9073bcbbf639886726de8155b"
+    },
+    {
+     "from": "2025-10-31",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "951980e5b7b869292efceabcc538975d97a678a7fe5a3f9ad690bdf005ac2708"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7e97e6b2ac6f0b5618747f3d55b203c5f39eb5b1d0c82737592845c7fd89365f"
+    },
+    {
+     "from": "2025-11-25",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "0e64935f3d22acaf5f801b36157926bb61a3995d782c25522a11581da89931ab"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "b2f3824ddff43501018d1cba96e4817a0c29d3e926af4b0dd2b3b811712a8028"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 129,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "464d9cb1b19ae9d1dba65b37a998bcd4ba4baccb4b9b96e962ff1c52f64c75cd"
+    },
+    {
+     "from": "2025-12-22",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "1109f354c356f3ceb739a67bc1a58732742fc915b98bd7d5af80a120e57787ab"
+    },
+    {
+     "from": "2025-12-26",
+     "units": 147,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "9770b41ebaec7e14d6ae79c8874cf6b09f139c3fb1e4bd8e9b54c13a65837ab8"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Altai Republic: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a5718f69585c00b60263196bfa3d971a2963aa0f4201bcf086222f0345b5b044"
+    },
+    {
+     "from": "2026-02-17",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "41a5cc5ce1458c30a1e0173af15bc3eb46b37bf05982de1aa2ff8fd1e5f45711"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7b7524699cb22ead294840e11b5f8f37e8cff0bfc10027ccbff08d476926663e"
+    },
+    {
+     "from": "2026-03-20",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e792785ba3d3772ee6d92fb89002c33e7741bafddcfe213dd2dd12b6a7691e3f"
+    },
+    {
+     "from": "2026-03-27",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "dba6a35ddbdefe5838ee1fbbff470feebc1947e06ec099f93544328f0067be64"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "000b534b138d4b7e5dcdef18d33cdcd1873056e6ec2ff7ec972351e74d757378"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "a6c66ec0df6698a53b302d703974c830002c02597a9b8720a6f08c8bc8a7e648"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "7fb6de8baaad2cfcf299506e4e447ee8716c109f4dce3320f8472463fe2fef37"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "e24205ed1841c866f7a205c35558459ed55de4972d7f977bcc22862eac97004e"
+    },
+    {
+     "from": "2026-10-08",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region04",
+     "sha256": "d782bfb7bf3749e74a632c93a397398217a971c81f9ee4be143da67f1d2172a5"
+    }
+   ]
+  }
+ ]
+}
