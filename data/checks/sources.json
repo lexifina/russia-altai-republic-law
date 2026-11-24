@@ -1,0 +1,28 @@
+{
+ "sources": [
+  {
+   "id": "pravo-altai-republic",
+   "kind": "legislation",
+   "name": {
+    "en": "Altai Republic: Official Internet Portal of Legal Information (region04)",
+    "ru": "Altai Republic: Официальный интернет-портал правовой информации (region04)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region04",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/altai-republic/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-altai-republic-law",
+   "group": "pravo"
+  }
+ ]
+}
