@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:36:39Z",
+ "generated": "2026-11-25T06:57:47Z",
  "latest": {
   "pravo-altai-republic|russia/altai-republic/acts": {
    "attempt": 1,
@@ -13,96 +13,42 @@
    },
    "census": {
     "checked": 1257,
-    "current": 1238,
+    "current": 1257,
     "gone": 0,
-    "held": 1238,
-    "newest_in_repo": "2026-10-08",
-    "pending": 19,
-    "repo": 1238,
+    "held": 1257,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1257,
     "source_in_scope": 1257
    },
-   "check_id": "ru-pravo-altai-republic-20261124T123404Z",
-   "commits": {
-    "count": 3,
-    "from": "59d2f3542d5fb836c55c51e52dae2ce4418e0e33",
-    "to": "67b39d6155dd4a38a4fb278bc15565f4c35befed"
-   },
+   "check_id": "ru-pravo-altai-republic-20261125T051348Z",
+   "commits": null,
    "corpus": "russia/altai-republic/acts",
    "error": null,
-   "finished": "2026-11-24T12:36:38Z",
+   "finished": "2026-11-25T05:14:21Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region04: 1257 law-type documents listed (every page read); 1238 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region04: 1257 law-type documents listed (every page read); 1257 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0400202611120001",
-     "0400202611120002",
-     "0400202611230001",
-     "0400202611230002",
-     "0400202611230003",
-     "0400202611230004",
-     "0400202611230005",
-     "0400202611230006",
-     "0400202611230007",
-     "0400202611230008",
-     "0400202611230009",
-     "0400202611230010",
-     "0400202611230011",
-     "0400202611230012",
-     "0400202611230013",
-     "0400202611230014",
-     "0400202611230015",
-     "0400202611230016",
-     "0400202611230019"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 10,
-   "runner": "lawwatch russia (a5c4306c67)",
+   "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0400202611120001",
-     "0400202611120002",
-     "0400202611230001",
-     "0400202611230002",
-     "0400202611230003",
-     "0400202611230004",
-     "0400202611230005",
-     "0400202611230006",
-     "0400202611230007",
-     "0400202611230008",
-     "0400202611230009",
-     "0400202611230010",
-     "0400202611230011",
-     "0400202611230012",
-     "0400202611230013",
-     "0400202611230014",
-     "0400202611230015",
-     "0400202611230016",
-     "0400202611230019"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1257 law-type documents in block region04; newest published 2026-11-23",
    "source": "pravo-altai-republic",
-   "started": "2026-11-24T12:34:04Z",
+   "started": "2026-11-25T05:13:48Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

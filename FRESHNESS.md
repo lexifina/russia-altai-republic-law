@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Altai Republic: Official Internet Portal of Legal Information (region04) · `russia/altai-republic/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 12:36 UTC**.
-- Acts held here: 1 238; current at the source: 1 238; changed at the source since the version held here: 19; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:14 UTC**.
+- Acts held here: 1 257; current at the source: 1 257; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
