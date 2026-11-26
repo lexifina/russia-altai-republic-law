@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:57:47Z",
+ "generated": "2026-11-26T06:14:39Z",
  "latest": {
   "pravo-altai-republic|russia/altai-republic/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1257,
     "source_in_scope": 1257
    },
-   "check_id": "ru-pravo-altai-republic-20261125T051348Z",
+   "check_id": "ru-pravo-altai-republic-20261126T051616Z",
    "commits": null,
    "corpus": "russia/altai-republic/acts",
    "error": null,
-   "finished": "2026-11-25T05:14:21Z",
+   "finished": "2026-11-26T05:16:48Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region04: 1257 law-type documents listed (every page read); 1257 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1257 law-type documents in block region04; newest published 2026-11-23",
    "source": "pravo-altai-republic",
-   "started": "2026-11-25T05:13:48Z",
+   "started": "2026-11-26T05:16:16Z",
    "unexplained": 0,
    "update": {
     "parts": []
